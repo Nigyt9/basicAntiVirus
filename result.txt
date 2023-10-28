@@ -1,0 +1,6 @@
+Name: ProtonVPN_win_v2.3.2.exe 
+SHA256: 3fd2a8f09887fef57cd6c99e31ad71804281142c4f731f0685dfea8c362411b6 
+Last scanned: 2023-03-16 06:04:35 
+Score:1/68 
+Link.: https://www.virustotal.com/gui/file/3fd2a8f09887fef57cd6c99e31ad71804281142c4f731f0685dfea8c362411b6/detection/f-3fd2a8f09887fef57cd6c99e31ad71804281142c4f731f0685dfea8c362411b6-1678946675 
+
