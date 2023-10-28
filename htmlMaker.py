@@ -1,3 +1,4 @@
+#Function to convert result.txt in html file result.html
 def maker():
     file = open("result.txt","r")
     result = file.read()
